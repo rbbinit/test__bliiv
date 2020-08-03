@@ -1,6 +1,8 @@
 .nav {
   background-color: #7d3cec;
   padding: 2px 20px;
+  color: inherit;
+  text-decoration: none;
 }
 
 .nav .nav__list {

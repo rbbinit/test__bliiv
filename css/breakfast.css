@@ -2,9 +2,12 @@
 .nav .nav__list-item3 {
   opacity: 0.6;
 }
-
 .nav .nav__list-item1 {
   border-bottom: 3px solid #f7f7f7;
+}
+
+.nav .nav__list {
+  text-decoration: none;
 }
 
 .breakfast {

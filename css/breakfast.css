@@ -1,0 +1,41 @@
+.nav .nav__list-item2,
+.nav .nav__list-item3 {
+  opacity: 0.6;
+}
+
+.nav .nav__list-item1 {
+  border-bottom: 3px solid #f7f7f7;
+}
+
+.breakfast {
+  padding: 0px 10px;
+}
+
+.breakfast__body-content {
+  margin-top: 20px;
+  border-radius: 10px;
+  padding: 10px 30px;
+  background-color: #7d3cec;
+  color: white;
+}
+
+.breakfast__body-content .breakfast__body-content-up {
+  display: flex;
+}
+
+.breakfast__body-content .breakfast__body-content-text {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 15px;
+  opacity: 0.7;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.breakfast__body-content .breakfast__body-content-money {
+  font-size: 20px;
+}
+
+.breakfast__body-content-up i {
+  font-size: 15px;
+  opacity: 0.7;
+}

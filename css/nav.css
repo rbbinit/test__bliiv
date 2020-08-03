@@ -1,0 +1,17 @@
+.nav {
+  background-color: #7d3cec;
+  padding: 2px 20px;
+}
+
+.nav .nav__list {
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav .nav__list-item1,
+.nav .nav__list-item2,
+.nav .nav__list-item3 {
+  list-style: none;
+  color: white;
+}

@@ -13,11 +13,11 @@
 }
 
 .status-bar .home__body-people {
-  position: fixed;
-  right: 7%;
-  top: 3%;
-  width: 8%;
-  height: 8%;
+  position: absolute;
+  right: 4%;
+  top: 4%;
+  width: 4%;
+  height: 4%;
 }
 
 .status-bar .home__body-imgLiiv {

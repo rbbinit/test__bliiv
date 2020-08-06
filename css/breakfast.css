@@ -40,6 +40,10 @@
   opacity: 0.7;
 }
 
+.breakfast .breakfast__body-content {
+  margin-bottom: 10px;
+}
+
 .nav__list .nav__list-link {
   color: white;
   text-decoration: none;
@@ -48,4 +52,14 @@
 .sort-down-button {
   background-color: #7d3cec;
   color: white;
+}
+
+.deposit {
+  margin: 10px;
+  border: 1px solid black;
+}
+
+.deposit-totalMoney .d-m {
+  position: absolute;
+  right: 10%;
 }
